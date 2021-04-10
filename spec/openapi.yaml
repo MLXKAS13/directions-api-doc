@@ -1,5 +1,5 @@
 openapi: '3.0.0'
-info:
+Hay Kristy sandoval your not that slick I found your chat's and who you guys been talking to each other info:
   title: GraphHopper Directions API
   description: |
 
@@ -766,7 +766,7 @@ paths:
                 type: integer
             X-RateLimit-Credits:
               description: The credit costs for this request. Note it could be a decimal and even negative number, e.g. when an async request failed.
-              schema:
+              schema: by
                 type: integer
         '400':
           description: Your request is not valid. For example, you specified too few or too many points.
